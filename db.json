@@ -27,7 +27,7 @@
         {
             "id": 4,
             "name": "Charmander",
-            "type": "Fire",
+            "type": ["Fire"],
             "image": {
                 "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png"
             }
