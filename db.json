@@ -79,10 +79,10 @@
         },
         {
             "id": 10,
-            "name": "Squirtle",
-            "type": ["Water"],
+            "name": "Onix",
+            "type": ["Rock", "Ground"],
             "image": {
-                "thumbnail": ""
+                "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/095.png"
               }
 
         },
